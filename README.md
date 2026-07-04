@@ -28,7 +28,7 @@
 - 💻 **LeetCode:** 600+ Problems Solved
 - 🏆 **Codechef:** Max Rating 1470 
 - 🏅 **Hackathons:** Hack for Delhi (3rd Place out of 1500+ teams) | Phanton Agents Hackathon (2nd Runner-Up) 
-- 🌟 **Mentorship Programs:** Cisco Women in Tech|Amazon ML Summer School
+- 🌟 **Mentorship Programs:** Amazon ML Summer School | Cisco Women in Tech
 
 ---
 
@@ -51,9 +51,9 @@ A comprehensive civic engagement and electoral integrity platform designed to sa
 
 ### 🎓 Academic Excellence
 
-**Indira Gandhi Delhi Technical University for Women (IGDTUW):** B.Tech in Computer Science Engineering with Artificial Intelligence (Class of 2028). **CGPA: 9.58**.
-**Marvell Technology M-STEM Scholar:** Selected among the **Top 100** engineering students nationwide. 
-**Ericsson Empowering Girl Scholar:** Selected among the **Top 200** second-year undergraduates nationwide. 
+- **Indira Gandhi Delhi Technical University for Women (IGDTUW):** B.Tech in Computer Science Engineering with Artificial Intelligence (Class of 2028). **CGPA: 9.58**.
+- **Marvell Technology M-STEM Scholar:** Selected among the **Top 100** engineering students nationwide. 
+- **Ericsson Empowering Girl Scholar:** Selected among the **Top 200** second-year undergraduates nationwide. 
 
 
 ---
